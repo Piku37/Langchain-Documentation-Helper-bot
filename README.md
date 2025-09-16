@@ -19,7 +19,6 @@
 [![Tavily](https://img.shields.io/badge/Tavily-🔍-purple.svg)](https://app.tavily.com/home?utm_campaign=eden_marco&utm_medium=socials&utm_source=linkedin)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![udemy](https://img.shields.io/badge/LangChain%20Udemy%20Course-%2412.99-green)](https://www.udemy.com/course/langchain/?couponCode=LANGCHAINCD8C0B4060)
 
 </div>
 
@@ -40,12 +39,6 @@ The **LangChain Documentation Helper** is a sophisticated AI-powered web applica
 7. 💬 **Interactive Interface**: User-friendly chat interface powered by Streamlit
 8. 🚀 **Real-time Processing**: Fast end-to-end pipeline from query to response
 
-## 🎬 Demo
-
-<div align="center">
-  <img src="static/banner.gif" alt="Documentation Helper Demo" width="700">
-  <p><em>Interactive demo showing the LangChain Documentation Helper in action</em></p>
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -131,20 +124,10 @@ documentation-helper/
 ├── main.py                           # Streamlit application entry point
 ├── ingestion.py                      # Document ingestion pipeline
 ├── consts.py                         # Configuration constants
-├── logger.py                         # Logging utilities
-├── Tavily Demo Tutorial.ipynb        # 📚 Tutorial: Introduction to Tavily API
-├── Tavily Crawl Demo Tutorial.ipynb  # 📚 Tutorial: Advanced Tavily crawling techniques
+├── logger.py                         # Logging utilitied
 └── requirements files                # Pipfile, Pipfile.lock
 ```
 
-### 📚 Tutorial Notebooks
-
-The project includes comprehensive Jupyter notebooks that serve as hands-on tutorials:
-
-- **`Tavily Demo Tutorial.ipynb`**: Introduction to Tavily API basics and core functionality
-- **`Tavily Crawl Demo Tutorial.ipynb`**: Advanced tutorial covering Tavily's crawling capabilities, including TavilyMap and TavilyExtract features
-
-These tutorials provide step-by-step guidance on integrating Tavily's powerful web search and crawling capabilities into your AI applications.
 
 ## 🔧 Configuration
 
@@ -172,24 +155,3 @@ This project is designed as a learning tool for understanding:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🌟 Support
-
-If you find this project helpful, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting issues
-- 💡 Contributing improvements
-- 📢 Sharing with others
-
----
-
-<div align="center">
-
-### 🔗 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.udemy.com/course/langchain/?referralCode=D981B8213164A3EA91AC)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eden-marco/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EdenEmarco177)
-
-**Built with ❤️ by Eden Marco**
-
-</div>
