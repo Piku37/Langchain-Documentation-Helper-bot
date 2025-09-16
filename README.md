@@ -25,6 +25,12 @@
 ## 🎯 Overview
 
 The **LangChain Documentation Helper** is a sophisticated AI-powered web application that serves as a slim version of [chat.langchain.com](https://chat.langchain.com/). This intelligent documentation assistant provides accurate answers to questions about LangChain documentation using advanced Retrieval-Augmented Generation (RAG) techniques, enhanced with web crawling capabilities and conversational memory.
+<br>
+## Demo
+
+[Open the Streamlit app](https://piku37-langchain-documentation-helper-bot-main-mau7qx.streamlit.app/)
+
+<br>
 
 ### ✨ Key Features
 
